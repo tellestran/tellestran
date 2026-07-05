@@ -18,7 +18,6 @@
 - Strong focus on scalable frontend architecture, reusable UI components, backend APIs, and reliable delivery.
 - Comfortable working in Agile teams and using AI coding tools such as GitHub Copilot and Claude Code to improve development workflows.
 - Bachelor of Electronic & Telecommunication Engineering from Hanoi University of Science and Technology.
-- TOEIC: 860/990.
 - Personal website: [Portfolio](https://bit.ly/telles-portfolio)
 - Resume: [View resume](https://bit.ly/telles-portfolio)
 
@@ -71,40 +70,6 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-<br><br>
-
------
-
-<br>
-
-## **Work Experience**
-
-### GovTech - Offshore Software Engineer
-
-**April 2023 - Present**
-
-**LifeSG - Citizen Services Web Application**
-
-- Built and enhanced 20+ reusable UI components used across multiple LifeSG modules.
-- Designed, developed, and maintained backend services and APIs for multiple platform workflows.
-- Used AWS services to support backend development tasks.
-- Applied AI coding agents such as GitHub Copilot and Claude Code to streamline repetitive work and accelerate delivery.
-
-**OneService Mobile App**
-
-- Worked on a citizen-facing mobile application for Singapore residents based on LifeSG web services.
-- Migrated React Native from version 0.6x to 0.8x.
-- Resolved 30+ compatibility issues and supported a successful production release with minimal regression.
-- Fixed application logic, typing issues, and failing unit tests to improve reliability and maintainability.
-
-### FPT Software
-
-**Parcel Pending - Delivery Locker Management Dashboard**
-
-- Implemented UI screens and business logic for responsive, maintainable workflows.
-- Designed and developed CRUD APIs for feature modules.
-- Supported end-to-end data management and system integration for an internal admin platform.
 
 <br><br>
 
