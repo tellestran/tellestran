@@ -2,7 +2,7 @@
 
 #### A Software Engineer by day ☼ and an AI-assisted builder by night ☾
 
-Offshore Software Engineer at **GovTech**, contributing to Singapore’s LifeSG and OneService platforms;<br>
+Offshore Software Engineer, contributing to Singapore’s LifeSG and OneService platforms;<br>
 Based in Hanoi, Vietnam 🇻🇳;<br>
 
 - ⚙️ I use daily: `.ts`, `.js`, `React`, `React Native`, `Node.js`, `PostgreSQL`
